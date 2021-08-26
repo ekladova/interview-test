@@ -1,0 +1,10 @@
+.totalCost {
+	background-color: white;
+	min-width: 22em;
+	border-radius: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	padding: 0.5em;
+	margin: 2em 0.5em;
+}

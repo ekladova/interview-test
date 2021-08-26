@@ -1,0 +1,16 @@
+.cost-card {
+	background-color: white;
+	min-width: 30em;
+	border-radius: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	padding: 0.7em;
+	margin: 2em 0.5em;
+	cursor: pointer;
+	color: #5f259f;
+}
+
+.clicked {
+	opacity: 0.7;
+}
