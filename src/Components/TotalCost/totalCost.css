@@ -7,4 +7,9 @@
 	justify-content: space-around;
 	padding: 0.5em;
 	margin: 2em 0.5em;
+	color: #5f259f;
+}
+
+.totalAmount {
+	color: red;
 }

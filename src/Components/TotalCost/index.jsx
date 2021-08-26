@@ -7,7 +7,7 @@ const TotalCost = ({ total }) => {
 	return (
 		<div className="totalCost">
 			<h2>Total</h2>
-			{total.toFixed(2)}
+			<h1 className="totalAmount">{total.toFixed(2)}</h1>
 		</div>
 	);
 };

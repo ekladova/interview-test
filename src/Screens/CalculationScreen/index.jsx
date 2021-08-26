@@ -17,7 +17,7 @@ const CalculationScreen = () => {
 
 	return (
 		<>
-			<h1>Calculating your total costs</h1>
+			<h1 className="title">Calculating your total costs</h1>
 			{/* <Switch>
 				<Route
 					path="/bridge-test"
